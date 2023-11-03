@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahmat</h1>
 <p align="center">
-<img src="https://i.ibb.co/sQybpy5/Developer-activity-bro.png" height="500" width="500" alt="Developer-activity-bro" align="center" border="0">
+<img src="https://i.ibb.co/sQybpy5/Developer-activity-bro.png" height="450" width="450" alt="Developer-activity-bro" align="center" border="0">
 </p>
-<h3 align="center">A passionate software engineer, I'm trying to be better.</h3>
+<h3 align="center">A passionate software engineer, "I'm trying to be better."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmat97dev&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahmat97dev" /> </p>
 
