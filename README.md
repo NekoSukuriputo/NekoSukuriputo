@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NekoSukuriputo&show_icons=true&locale=en" alt="abdulrahmat97dev" /></p>
 <br/>
-<img align="left" src="https://www.codewars.com/users/NekoSukuriputo/badges/small"/>
+<img align="left" src="https://www.codewars.com/users/NekoSukuriputo/badges/large"/>
