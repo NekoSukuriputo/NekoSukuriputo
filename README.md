@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">A passionate software engineer, "I'm trying to be better."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmat97dev&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahmat97dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NekoSukuriputo&label=Profile%20views&color=0e75b6&style=flat" alt="NekoSukuriputo" /> </p>
 
 - 🌱 I’m currently learning **Phaser, Unity, Unreal**
 
