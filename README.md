@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Phaser, Unity, Unreal**
 
-- 👨‍💻 Portofolio web in [UnderContruction for New Version](https://nekosukuriputo.dev/)
+- 👨‍💻 Portofolio web in [NekoSukuriputo.dev](https://nekosukuriputo.dev/)
 
 - 💬 Ask me about **Javascript, VueJS, React**
 
