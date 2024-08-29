@@ -20,8 +20,5 @@
 <a href="https://stackoverflow.com/users/9193460/abdul-rahmat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9193460/abdul-rahmat" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NekoSukuriputo&show_icons=true&locale=en&layout=compact" alt="NekoSukuriputo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NekoSukuriputo&show_icons=true&locale=en" alt="NekoSukuriputo" /></p>
-<br/>
+![NekoSukuriputo's Stats](https://github-readme-stats.vercel.app/api?username=NekoSukuriputo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br/>
 <img align="left" src="https://www.codewars.com/users/NekoSukuriputo/badges/large"/>
