@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NekoSukuriputo&label=Profile%20views&color=0e75b6&style=flat" alt="NekoSukuriputo" /> </p>
 
-- 🌱 I’m currently learning **Phaser, Unity, Unreal**
+- 🌱 I’m currently learning **Phaser JS, Unity Engine, Unreal Engine**
 
 - 👨‍💻 Portofolio web in [NekoSukuriputo.dev](https://nekosukuriputo.dev/)
 
