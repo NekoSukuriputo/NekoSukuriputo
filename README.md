@@ -48,16 +48,15 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats-six-delta-89.vercel.app/api?username=NekoSukuriputo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="/api?username=NekoSukuriputo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 <br>
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NekoSukuriputo&theme=tokyonight" alt="Repos per Language" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NekoSukuriputo&theme=tokyonight" alt="Most Commit Language" />
+  <img height="170" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+  <img height="170" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NekoSukuriputo&theme=tokyonight" alt="Profile Details" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </div>
 <br>
 <div align="center">
